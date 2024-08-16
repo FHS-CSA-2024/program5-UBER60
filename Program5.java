@@ -32,6 +32,14 @@ public class Program5{
 }
 //Paste console output below:
 /*
+Mushroom Cup Prix Racer Average Miles/Per Gallon:
 
+Royale averaged 31.77777777777778 m/g
+
+Royale averaged 10.3 m/g
+
+Royale averaged 20.055555555555557 m/g
+
+Royale averaged 14.636363636363637 m/g
 
 */
